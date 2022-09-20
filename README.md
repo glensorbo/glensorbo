@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there, I'm Glen 👋
 
 <a href="https://www.linkedin.com/in/glen-sorbo/"><img align="left" src="./images/linkedin.png" alt="Glen | LinkedIn" width="21px" style="margin-right: 10px;"/></a>[LinkedIn | Glen](https://www.linkedin.com/in/glen-sorbo/)
 
